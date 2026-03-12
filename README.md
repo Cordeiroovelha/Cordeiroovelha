@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studing a lot<br>Student of IFSP<br>Searching for work!
+You can't get two followers on GitHub without making some enemies.<br>Student of IFSP<br>Searching for work!
 
 
 ## 🌐 Socials:
