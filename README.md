@@ -10,6 +10,8 @@ You can't get two followers on GitHub without making some enemies.<br>Student of
 # 📊 GitHub Stats:
 <img src="https://streak-stats.demolab.com?user=Cordeiroovelha&theme=dark&hide_border=true" alt="Cordeiroovelha's GitHub Stats" /><br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cordeiroovelha&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Cordeiroovelha's GitHub Stats" />
+
 ---
 [![]([https://visitcount.itsvg.in/api?id=cordeiroovelha&icon=0&color=0)](https://visitcount.itsvg.in](https://github-readme-stats.vercel.app/api/top-langs/?username=Cordeiroovelha&theme=dark&show_icons=true&hide_border=true&layout=compact))
 
