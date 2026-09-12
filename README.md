@@ -1,5 +1,5 @@
 # 🖋️​ About Me:
-You can't get 5 followers on GitHub without making some enemies.<br>Student of IFSP<br>Searching for work!
+You can't get 5 followers on GitHub without making some enemies.<br>Student of IFSP<br>Searching for work!<br>more specialized in C++
 
 
 ## 🌐 Socials:
