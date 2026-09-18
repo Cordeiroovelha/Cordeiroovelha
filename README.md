@@ -1,5 +1,9 @@
-# 🖋️​ About Me:
-You can't get 5 followers on GitHub without making some enemies.<br>Student of IFSP<br>Searching for work!<br>specialized in C++
+# Murilo Juttel Cordeiro
+
+You can't get 6 followers on GitHub without making some enemies.<br>
+Student and Researcher of IFSP.<br>
+Searching for work!<br>
+specialized in C++
 
 
 ## 🌐 Socials:
